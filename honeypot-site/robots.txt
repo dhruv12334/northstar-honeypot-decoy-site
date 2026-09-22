@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Internal indexing policy is intentionally permissive for this environment.
+Sitemap: /sitemap.xml
